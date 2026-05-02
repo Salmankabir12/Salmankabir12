@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Salman Kabir</h1>
-<h3 align="center">CSE student from Bangladesh | Turning ideas into code 🚀</h3>
+<h1 align="center">Salman Kabir</h1>
+<p align="center">CSE Student • Bangladesh 🇧🇩 • Building & Learning</p>
+
+---
+
+- 💻 I write code and solve problems  
+- 🌱 Currently improving my development skills  
+- 🎯 Goal: Become a skilled software engineer  
+
+---
+
+> "Consistency beats talent."
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankabir12&label=Profile%20views&color=0e75b6&style=flat" alt="salmankabir12" /> </p>
 
