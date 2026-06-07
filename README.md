@@ -3,9 +3,9 @@
 
 ---
 
-- 💻 I write code and solve problems  
-- 🌱 Currently improving my development skills  
-- 🎯 Goal: Become a skilled software engineer  
+-  I write code and solve problems  
+-  Currently improving my development skills  
+-  Goal: Become a skilled software engineer  
 
 ---
 
