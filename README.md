@@ -1,6 +1,6 @@
 <h1 align="center">Salman Kabir</h1>
 <p align="center">
-  <code>full-stack developer</code> ✦ <code>bangladesh 🇧🇩</code> ✦ <code>building & learning</code>
+  <code>developer</code> ✦ <code>bangladesh 🇧🇩</code> ✦ <code>building & learning</code>
 </p>
 
 <p align="center">
