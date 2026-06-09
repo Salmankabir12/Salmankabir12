@@ -21,6 +21,7 @@ const salman = {
   cloud: ['Cloudflare Workers', 'Cloudflare Pages', 'Vercel'],
   tools: ['Git', 'npm', 'pnpm', 'VS Code'],
   askMeAbout: ['web dev', 'full-stack architecture', 'cloudflare', 'ui/ux'],
+  ai: ['Python', 'Autograd', 'Neural Networks', 'Machine Learning'],
   currentFocus: 'Building performant, type-safe web applications',
   funFact: 'Consistency beats talent 🚀'
 };
@@ -70,6 +71,19 @@ const salman = {
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Salmankabir12/autodiff">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=autodiff&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Salmankabir12/StudyAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=StudyAI&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
