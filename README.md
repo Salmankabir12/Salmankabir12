@@ -15,7 +15,6 @@
 ```js
 const salman = {
   location: 'Dhaka, Bangladesh',
-  pronouns: 'he/him',
   code: ['TypeScript', 'JavaScript', 'Python', 'C++'],
   web: ['Astro', 'React', 'Node.js', 'Tailwind CSS'],
   databases: ['SQLite', 'Sanity CMS', 'Cloudflare D1'],
