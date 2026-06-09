@@ -7,7 +7,8 @@
   <a href="https://portfolio-22m.pages.dev" target="_blank">portfolio</a> ✦
   <a href="https://www.linkedin.com/in/salman-kabir-70a1432b9" target="_blank">linkedin</a> ✦
   <a href="https://fb.com/salmankabir12" target="_blank">facebook</a> ✦
-  <a href="https://instagram.com/salmaaaan._1" target="_blank">instagram</a>
+  <a href="https://instagram.com/salmaaaan._1" target="_blank">instagram</a> ✦
+  <a href="mailto:salmaaaan.kabir@gmail.com">email</a>
 </p>
 
 ---
