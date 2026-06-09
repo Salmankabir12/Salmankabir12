@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://salmankabir.vercel.app" target="_blank">portfolio</a> ✦
-  <a href="https://linkedin.com/in/salman-kabir-25a870353" target="_blank">linkedin</a> ✦
+  <a href="https://www.linkedin.com/in/salman-kabir-70a1432b9" target="_blank">linkedin</a> ✦
   <a href="https://fb.com/salmankabir12" target="_blank">facebook</a> ✦
   <a href="https://instagram.com/salmaaaan._1" target="_blank">instagram</a>
 </p>
