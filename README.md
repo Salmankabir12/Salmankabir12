@@ -20,10 +20,10 @@ const salman = {
   databases: ['SQLite', 'Sanity CMS', 'Cloudflare D1'],
   cloud: ['Cloudflare Workers', 'Cloudflare Pages', 'Vercel'],
   tools: ['Git', 'npm', 'pnpm', 'VS Code'],
-  askMeAbout: ['web dev', 'full-stack architecture', 'cloudflare', 'ui/ux'],
+  askMeAbout: ['web dev', 'full-stack architecture', 'cloudflare', 'machine learning', 'autograd'],
   ai: ['Python', 'Autograd', 'Neural Networks', 'Machine Learning'],
-  currentFocus: 'Building performant, type-safe web applications',
-  funFact: 'Consistency beats talent 🚀'
+  currentFocus: 'Building an autograd engine from scratch and full-stack web apps',
+  funFact: 'I built an autograd engine from scratch to understand what .backward() really does 🧠'
 };
 ```
 
@@ -62,6 +62,14 @@ const salman = {
   <br/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>AI & ML</b>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autograd-000000?style=for-the-badge&logo=themodelsresource&logoColor=white" />
 </p>
 
 <p align="center">
