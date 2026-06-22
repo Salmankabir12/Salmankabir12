@@ -38,6 +38,8 @@ const salman = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center">
@@ -82,6 +84,7 @@ const salman = {
   <b>Tools</b>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -100,6 +103,9 @@ const salman = {
   </a>
   <a href="https://github.com/Salmankabir12/StudyAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=StudyAI&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Salmankabir12/NSU-CGPA-Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=NSU-CGPA-Calculator&theme=radical&hide_border=true" />
   </a>
 </p>
 
