@@ -16,13 +16,13 @@
 const salman = {
   location: 'Dhaka, Bangladesh',
   code: ['TypeScript', 'JavaScript', 'Python', 'PHP', 'C++'],
-  web: ['Astro', 'Svelte', 'React', 'Three.js', 'Framer Motion', 'Node.js', 'Tailwind CSS'],
-  databases: ['SQLite', 'MySQL', 'Sanity CMS', 'Cloudflare D1'],
+  web: ['Astro', 'Svelte', 'React', 'Vue', 'Nuxt 4', 'Three.js', 'Framer Motion', 'Node.js', 'Tailwind CSS'],
+  databases: ['SQLite', 'MySQL', 'Sanity CMS', 'Strapi 5', 'Cloudflare D1'],
   cloud: ['Cloudflare Workers', 'Cloudflare Pages', 'Vercel'],
   tools: ['Git', 'npm', 'pnpm', 'VS Code'],
   askMeAbout: ['web dev', 'full-stack architecture', 'cloudflare', 'Three.js / WebGL', 'machine learning'],
   ai: ['Python', 'scikit-learn', 'Autograd', 'Neural Networks', 'Machine Learning'],
-  currentFocus: 'Building animated web experiences with Three.js, Svelte, and Cloudflare',
+  currentFocus: 'Building animated web experiences with Three.js, Svelte, and Cloudflare — also exploring Nuxt 4 and Strapi 5',
   funFact: 'I built an autograd engine from scratch to understand what .backward() really does 🧠'
 };
 ```
@@ -47,6 +47,8 @@ const salman = {
   <br/>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
@@ -62,6 +64,7 @@ const salman = {
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -103,6 +106,9 @@ const salman = {
   </a>
   <a href="https://github.com/Salmankabir12/StudyAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=StudyAI&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Salmankabir12/nuxt-storefront">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=nuxt-storefront&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Salmankabir12/NSU-CGPA-Calculator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=NSU-CGPA-Calculator&theme=radical&hide_border=true" />
