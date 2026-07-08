@@ -99,19 +99,24 @@ const salman = {
 
 <p align="center">
   <a href="https://github.com/Salmankabir12/KANSMODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=KANSMODE&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Salmankabir12/autodiff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=autodiff&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Salmankabir12/StudyAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=StudyAI&theme=radical&hide_border=true" />
-  </a>
+    <img src="https://img.shields.io/badge/KANSMODE-Astro_%7C_Svelte_%7C_Three.js-181717?style=for-the-badge&logo=github" />
+  </a>&nbsp;
   <a href="https://github.com/Salmankabir12/nuxt-storefront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=nuxt-storefront&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Nuxt_Storefront-Nuxt_4_%7C_Strapi_5-181717?style=for-the-badge&logo=github" />
+  </a>&nbsp;
+  <a href="https://github.com/Salmankabir12/StudyAI">
+    <img src="https://img.shields.io/badge/StudyAI-Astro_%7C_Cloudflare-181717?style=for-the-badge&logo=github" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Salmankabir12/autodiff">
+    <img src="https://img.shields.io/badge/Autodiff-Python_%7C_Autograd-181717?style=for-the-badge&logo=github" />
+  </a>&nbsp;
+  <a href="https://github.com/Salmankabir12/AI-Student-Predictor">
+    <img src="https://img.shields.io/badge/AI_Student_Predictor-Python_%7C_FastAPI-181717?style=for-the-badge&logo=github" />
+  </a>&nbsp;
   <a href="https://github.com/Salmankabir12/NSU-CGPA-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Salmankabir12&repo=NSU-CGPA-Calculator&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/CGPA_Calculator-JS_%7C_HTML-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -120,18 +125,14 @@ const salman = {
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmankabir12&theme=radical" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmankabir12&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmankabir12&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/salmankabir12" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmankabir12&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <a href="https://github.com/salmankabir12">
+    <img src="https://img.shields.io/github/followers/salmankabir12?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+    <img src="https://img.shields.io/github/stars/salmankabir12?style=for-the-badge&logo=github&label=Total%20Stars&color=blueviolet" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmankabir12&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
