@@ -120,12 +120,18 @@ const salman = {
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmankabir12&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankabir12&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmankabir12&theme=radical" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmankabir12&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmankabir12&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmankabir12&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/salmankabir12" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmankabir12&theme=react-dark&hide_border=true&area=true" width="95%" />
+  </a>
 </p>
 
 ---
